@@ -1,4 +1,5 @@
 import tweepy
+import os
 
 # Authentication credentials - dev.twitter.com
 cfg = {
